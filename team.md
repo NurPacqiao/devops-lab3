@@ -1,4 +1,4 @@
 # Informacje o członku zespołu
-Imię:
-Nazwisko:
-Ulubiona technologia:
+Imię: Nurlan, Batu
+Nazwisko: Atamuratov, Khan
+Ulubiona technologia: GitHub, Linux
